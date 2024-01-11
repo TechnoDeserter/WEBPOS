@@ -1,0 +1,138 @@
+.wireframe-1 {
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(255, 224, 224, 1);
+    border: 1px none;
+    display: flex;
+    width: 100%;
+}
+
+.dash {
+    align-items: center;
+    background-color: #ffe0e0;
+    border: 1px none;
+    display: flex;
+    flex-wrap: wrap;
+    gap: 22px;
+    justify-content: center;
+    max-width: 100%;
+}
+
+.overlap-g {
+    align-items: center;
+    background-image: url("../img/rectangle-1.png");
+    background-size: 100% 100%;
+    display: flex;
+    flex-direction: column;
+    min-height: 1024px;
+    padding: 17px 25px;
+    width: 286px;
+}
+
+.finjnal_1 {
+    background-image: url("../img/finjnal_1.png");
+    background-position: 50% 50%;
+    background-size: cover;
+    height: 79px;
+    margin-left: 7px;
+    width: 79px;
+}
+
+.business {
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: medium;
+    font-style: italic;
+    font-weight: 900;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 7px;
+    margin-top: 6px;
+    min-height: 48px;
+    min-width: 207px;
+    text-align: center;
+}
+
+.title {
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    font-style: italic;
+    font-weight: 900;
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 41px;
+    margin-top: 15px;
+    min-height: 48px;
+    min-width: 139px;
+    white-space: nowrap;
+}
+
+.group9 {
+    align-items: center;
+    background-color: gray;
+    border-radius: 20.5px;
+    display: flex;
+    height: 88px;
+    margin-top: 30px;
+    min-width: 218px;
+    padding: 27px 39px;
+}
+
+.user_pfp {
+    background-color: rgba(187, 17, 17, 1);
+    border-radius: 41px/40.5px;
+    height: 81px;
+    width: 82px;
+}
+
+.user_label {
+    letter-spacing: 0;
+    line-height: normal;
+    margin-left: 10px;
+}
+
+.inter-black {
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: 900;
+    font-style: italic;
+}
+
+.menu-item {
+    align-items: center;
+    display: flex;
+    height: 29px;
+    margin-right: 12;
+    margin-top: 41px;
+    min-width: 110px;
+    cursor: pointer;
+    letter-spacing: 0;
+    line-height: normal;
+    min-height: 29px;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 24px;
+    font-weight: 900;
+    font-style: italic;
+}
+
+.menu-item.highlight {
+    font-weight: bold;
+    cursor: pointer;
+    color: #fc804a;
+    font-size: 20px;
+    min-height: 29px;
+    position: relative;
+    align-items: center;
+    background-color: white;
+    border-radius: 20.5px;
+    display: flex;
+    height: 88px;
+    margin-top: 30px;
+    min-width: 218px;
+    padding: 27px 39px;
+}
+
+

@@ -1,0 +1,13 @@
+.modal-sheet .modal-dialog {
+  width: 400px;
+  transition: bottom .75s ease-in-out;
+}
+.modal-sheet .modal-footer {
+  padding-bottom: 3rem;
+}
+
+
+.table-borderless td,
+.table-borderless th {
+    border: 0;
+}
